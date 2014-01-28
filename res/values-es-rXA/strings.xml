@@ -94,7 +94,7 @@
     <string name="reminders_label" msgid="7292389181815525676">Amestar recordatoriu</string>
     <string name="no_syncable_calendars" msgid="7019488867045436129">Nun hai calendarios.</string>
     <string name="no_calendars_found" msgid="8968682716053492187">P\'amestar eventos, amiesta a lo menos una cuenta de Calendar al preséu y fai visible un calendariu. Pa ello, toca Amestar cuenta (si yá lo fixisti, espera a que fine la sincronización y vuelvi a intentalo). Tamién pues tocar Encaboxar y comprobar que a lo menos, un calendariu seya visible.</string>
-    <string name="create_an_account_desc" msgid="7249605109240576895">L\'aplicación Calendariu funciona meyor con una cuenta de Google."\n\n"• Accedi al to calendariu dende cualquier restolador web."\n"• Fai copies de seguridá de los tos eventos de mou seguru.</string>
+    <string name="create_an_account_desc" msgid="7249605109240576895">L\'aplicación Calendariu funciona meyor con una cuenta de Google.\n\n• Accedi al to calendariu dende cualquier restolador web."\n"• Fai copies de seguridá de los tos eventos de mou seguru.</string>
     <string name="add_account" msgid="1669072099756774952">Amestar cuenta</string>
     <string name="view_event_calendar_label" msgid="6126231656338241140">Calendariu:</string>
     <string name="view_event_organizer_label" msgid="2753151795647402277">Organizador:</string>
